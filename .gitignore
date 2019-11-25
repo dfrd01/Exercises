@@ -1,5 +1,4 @@
- .idea/
-        Calculator.iml
-        out/
-        src/com/school/mindera/exercises/CalculatorTest.java
-
+.idea/
+Calculator.iml
+out/
+src/com/school/mindera/exercises/CalculatorTest.java
