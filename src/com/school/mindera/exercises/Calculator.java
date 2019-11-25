@@ -63,6 +63,18 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
+        Calculator calc = new Calculator();
 
+        calc.writeNumbers(10);
+        calc.sum();
+        calc.writeNumbers(20);
+        calc.sub();
+        calc.writeNumbers(5);
+        calc.mult();
+        calc.writeNumbers(4);
+        calc.div();
+        calc.writeNumbers(2);
+        calc.equals();
+        System.out.println(calc.getScreen());
     }
 }
